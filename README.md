@@ -1,3 +1,3 @@
 # DNID-game-project
 
-The assest.zip is the final change we made.
+The assets.zip is the final change we made.

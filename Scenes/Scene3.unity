@@ -8118,7 +8118,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: The young bear returned to the forest, and his family and friends greatly
-    missed him. Lastly, he sat down and played piano to his family and friends.
+    missed him. Lastly, he sat down and played with his family and friends.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5b820af12c4b14b2f8b39d653dcc895b, type: 2}
   m_sharedMaterial: {fileID: 8788600112423337058, guid: 5b820af12c4b14b2f8b39d653dcc895b, type: 2}
@@ -8145,8 +8145,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 42
-  m_fontSizeBase: 42
+  m_fontSize: 44
+  m_fontSizeBase: 44
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
